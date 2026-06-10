@@ -54,6 +54,12 @@ R scripts are used for:
 
 The project is fully reproducible. Python is used for data acquisition, while R handles preprocessing, modeling and evaluation.
 
+## Data
+
+Due to size limitations, raw data is not included in this repository.
+
+All datasets can be reproduced using the provided Python scraping pipeline and R preprocessing scripts.
+
 ## Pipeline Overview
 
 - News scraping (Python)  
