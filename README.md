@@ -57,10 +57,10 @@ The project is fully reproducible. Python is used for data acquisition, while R 
 ## Pipeline Overview
 
 News scraping (Python)  
-→ FinBERT sentiment analysis  
-→ Feature engineering (R)  
-→ Volatility construction  
-→ OLS regression + diagnostics
+- FinBERT sentiment analysis  
+- Feature engineering (R)  
+- Volatility construction  
+- OLS regression + diagnostics
 
 ## How to Run
 
