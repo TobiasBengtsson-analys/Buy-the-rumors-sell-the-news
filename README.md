@@ -56,7 +56,7 @@ The project is fully reproducible. Python is used for data acquisition, while R 
 
 ## Pipeline Overview
 
-News scraping (Python)  
+- News scraping (Python)  
 - FinBERT sentiment analysis  
 - Feature engineering (R)  
 - Volatility construction  
